@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/student/mad/devel -DCMAKE_INSTALL_PREFIX=/home/student/mad/install -G Unix Makefiles
